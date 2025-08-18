@@ -1,0 +1,29 @@
+/* This is a style sheet for the index.html file */
+
+.cool_odds,
+.odds
+{
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+
+.cool_odds
+{
+    font-size: 24px;
+}
+
+
+#second
+{
+    color: blue;
+    font-size: 36px;
+}
+
+
+#fourth
+{
+    background-color: LightGreen;
+    font-size: 24px;
+    font-weight: bold;
+}
